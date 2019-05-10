@@ -1,6 +1,9 @@
 # MicrocommerceJPA
 Mini e-commerce system using a microservice architecture and JPA (Java Persistence API).
 
+![image1](https://github.com/nicolaschen1/MicrocommerceJPA/blob/master/spring-boot.png)
+![image2](https://github.com/nicolaschen1/MicrocommerceJPA/blob/master/jpa.jpg)
+
 ## About
 I use Java Spring Boot to develop an e-commerce system using a microservice architecture. This microservice will manage the products for sale, it must be able to add, delete, update and display the products. It will expose a REST API that proposes all CRUD database operations (Create, Read, Update, Delete).
 
